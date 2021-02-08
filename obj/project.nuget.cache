@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0yw8qd4M+W7eLPpR+tJgRviinBg5WBX+v0vX+gd7KP1u4syLzsos1JOeGqsq+igP8kMTa1pm9D+i+HnmWjELQ==",
+  "success": true,
+  "projectFilePath": "/home/pedrofigueiredo/code/C#/qrcode/qrcode.csproj",
+  "expectedPackageFiles": [
+    "/home/pedrofigueiredo/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/pedrofigueiredo/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/pedrofigueiredo/.nuget/packages/qrcoder/1.4.1/qrcoder.1.4.1.nupkg.sha512",
+    "/home/pedrofigueiredo/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
